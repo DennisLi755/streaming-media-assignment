@@ -1,3 +1,4 @@
+//added comment for CI to run on github
 const fs = require('fs');
 const path = require('path');
 
